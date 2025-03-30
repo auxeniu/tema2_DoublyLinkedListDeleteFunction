@@ -1,5 +1,6 @@
-#define _CRT_SECURE_NO_WARNINGS
+//MICLESCU RAZVAN-AUXENIU, GRUPA 1060
 
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <malloc.h>
 #include <string.h>
